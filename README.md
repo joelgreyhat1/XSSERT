@@ -12,5 +12,7 @@ git clone https://github.com/joelgreyhat1/XSSERT.git
 cd XSSERT
 
 python3 XSSERT.py http://example.com/page.php?cat=1
-#Disclaimer
+
+
+# Disclaimer
 The Developer (Joel Greyhat) is not responsible for the misuse of the programm. It is intented for security purposes and research.
